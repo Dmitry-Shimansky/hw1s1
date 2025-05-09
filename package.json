@@ -1,8 +1,8 @@
 {
-  "name": "pre-homeworks",
+  "name": "hw1s1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dmitry-Shimansky.github.io/hw1s1",
+  "homepage": "http://Dmitry-Shimansky.github.io/hw1s1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
